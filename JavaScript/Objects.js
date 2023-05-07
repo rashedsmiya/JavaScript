@@ -42,3 +42,4 @@ const student = {
 
 console.log(`My name is ${student.name} & I am ${student.age} years old`);
 
+
