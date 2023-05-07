@@ -32,3 +32,13 @@ const student = [
 for (let i = 0; i < student.length; i++) {
   console.log(student[i]);
 }
+
+const student = {
+  roll: 1,
+  name: 'Asraful Haque',
+  age: 10,
+  location: 'Mirpur',
+};
+
+console.log(`My name is ${student.name} & I am ${student.age} years old`);
+
